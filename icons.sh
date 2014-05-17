@@ -8,11 +8,10 @@
 
 if [ $1 == 'show' ]; then
     defaults write com.apple.finder CreateDesktop -bool true
-    killall Finder
 fi
 
 if [ $1 == 'hide' ]; then
     defaults write com.apple.finder CreateDesktop -bool false
-    killall Finder
 fi
 
+killall -TERM Finder
