@@ -2,7 +2,7 @@
 
 # Author: Mike Mackenzie
 # Hides or shows all desktop icons useful if you want an unclutered desktop on
-# OS X. People do say that it also helps speed up the computer as he sytsem
+# OS X. People do say that it also helps speed up the computer as the sytsem
 # isn't generating thumbnails all the time. Whatever, you know the Internet...
 # lies, lies everywhere! 
 
